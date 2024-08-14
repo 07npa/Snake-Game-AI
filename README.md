@@ -1,4 +1,4 @@
-**Instructions **
+**Instructions**
 
 This assignment requires you to implement the intelligent behaviour for the classic arcade game snake.
 
